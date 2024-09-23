@@ -8,7 +8,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ExAvatar-jupyter/blob/main/ExAvatar_jupyter.ipynb) | ExAvatar_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ExAvatar-jupyter/blob/main/ExAvatar_jupyter.ipynb) | ExAvatar_jupyter 🐢
 
 ### 🧬 Code
 https://github.com/mks0601/ExAvatar_RELEASE
