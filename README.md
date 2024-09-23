@@ -23,7 +23,7 @@ https://mks0601.github.io/ExAvatar/
 
 Only Fitting Part
 
-https://github.com/user-attachments/assets/56596b5d-dcea-4bdd-9213-ecc5f2e615d1
+https://github.com/user-attachments/assets/856bee89-506f-4eb4-8aec-833c5362d8b9
 
 ### 🏢 Sponsor
 https://runpod.io
